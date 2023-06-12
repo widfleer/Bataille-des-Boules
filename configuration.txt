@@ -1,0 +1,18 @@
+largeur=1200
+hauteur=800
+largeur_aire=800
+hauteur_aire=800
+nb_tour=30
+rayon=100
+budget=400
+increment=5
+temps_tour=5
+
+#Paramètres originaux dans l'ordre : 1200, 800, 800, 800, 30, 100, 400, 5, 5
+#Nous vous conseillons de garder le ratio original qui est de 1.5. Avec une aire de jeu de largeur égale à 2/3 de la largeur de la fenêtre et de la même hauteur que celle de la fenêtre.
+#Si toutes fois vous désirez le changer, prenez en compte que vous ne pourrez pas avoir une aire de jeu plus large que 2/3 de la largeur de la fenêtre.
+#Si vous choisissez une taille de fenêtre trop petite, le texte se superposera et sera coupé. Nous nous excusons du manque de responsivité de notre jeu.
+#Veuillez également choisir un nombre de tours pair pour une totale équité entre les joueurs !
+#Veillez à choisir un rayon qui rentre dans l'aire de jeu.
+#Si vous comptez charger une partie, veillez à choisir les mêmes paramètres d'affichage, sinon vous ne pourrez pas jouer...
+#Nous n'avons plus d'autres conseils, bon jeu et que le meilleur gagne ! À votre souris, prêts, cliquez !
