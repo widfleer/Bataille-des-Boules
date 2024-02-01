@@ -1,6 +1,6 @@
 # La Bataille des Boules !
 
-Projet de BUT Informatique codé en `Python` et réalisé en binome.
+Projet de BUT Informatique codé en `Python` et réalisé en binôme.
 
 ![Screen du menu d'accueil du jeu](./batailleboules.png "Screen Accueil")
 
